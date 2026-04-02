@@ -14,6 +14,8 @@
 >
 > 根据最近 6 个月群友讨论排名
 >
+> 消息 T(总数) P(正面) N(负面)
+>
 > 数据不对吗，这个锅 AI 背了
 
 | Date　　 | Name　　　　　 | Type | Periodic　　　　　　　　　　　 | Unlimited　　　　 | Channel | Group | Last6Months　　　　　　　　　　 | MonthBeforeLast　　　　　　　　 | LastMonth　　　　　　　　　 | Last30Days　　　　　　　　　　　 |
