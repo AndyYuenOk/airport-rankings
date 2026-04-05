@@ -2,7 +2,7 @@
 
 | Name　　　　　 | Channel | Group | Periodic　　　　　　　　　　　 | Unlimited　　　　 | Date　　 | Type |
 | :--- | :--- | :--- | ---: | ---: | :--- | :--- |
-| [Nexitally](https://nexitally.com/Price.aspx) | 19,200 | - | 500G/M ¥117/M ¥1103/Y | - | 2022-02 | Relay |
+| [Nexitally](https://nexitally.com/Price.aspx) | 19,200 | - | 500G/M ¥117.46/M ¥594/6M ¥1102.44/Y <br> 200G/M ¥71/M ¥360/6M ¥624/Y <br> 500G/M ¥162/M | - | 2026-04 | Relay |
 | [LinkCube](https://linkcube.org/cart.php) | 5,889 | - | 100G/M ¥15/M ¥145/Y | - | 2022-03 | Relay |
 | [良心云](https://良心云.com/#/shop) | 27,800 | 24,418 | 100G/M ￥2/M ￥24/Y | 1000G/¥21 | 2025-03 | Direct |
 | [WestData](https://wd-cloud.net/pricing) | 10,000 | - | 200G/M ¥20/M ¥200/Y | - | 2022-02 | Relay |
