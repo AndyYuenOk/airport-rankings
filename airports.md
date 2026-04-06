@@ -46,4 +46,4 @@
 | [TKV](https://portal.tkv.one/order/speedx/speedx-air) | 2,840 | - | 50GB/M ¥10/M ¥27/3M ¥51/6M ¥96/Y <br> 100GB/M ¥20/M <br> 250GB/M ¥50/M <br> 500GB/M ¥80/M | - | 2026-04-06 | 2026-04 | - |
 | [白月光](https://bygcloud.com/store) | 17,100 | - | 100G/M ¥66/3M ¥264/Y | - | 2026-04-06 | 2026-04 | - |
 | [V2Tun](https://cp.v2-tun.net/cart.php) | 3,272 | - | 100G/M ¥42/3M ¥138/Y | - | 2026-04-06 | 2026-04 | - |
-| [海豚湾](https://hitun.io/user/shop) | 11,900 | - | 750G/3M ¥90/3M <br> 3000G/Y ¥350/Y | - | 2026-04-06 | 2026-04 | - |
+| [海豚湾](https://hitun.io/user/shop) | 11,900 | - | 3000G/Y ¥350/Y <br> 750G/3M ¥90/3M <br> 500G/M ¥49/M | - | 2026-04-06 | 2026-04 | - |
