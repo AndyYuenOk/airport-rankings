@@ -17,13 +17,13 @@
 | [MESL](https://panel.meslcloud.com/#/shop) | - | - | 50G/M ¥155/Y <br> 100G/M ¥72/3M <br> 200G/M ¥50/M | - | 2026-04-06 | 2026-04 | - |
 | [iKuuu](https://ikuuu.org/user/shop) | - | - | 300G/M ¥12/M ¥108/Y | - | - | 2022-03 | Relay |
 | [一分机场](https://一分机场.com/#/plan) | 29,600 | 25,608 | 100G/M ¥2/M ¥11.99/6M ¥23.88/Y | 100G/¥11.88 | 2026-04-05 | 2026-04 | Direct |
-| [YkkCloud](https://panel.ykkk.best/#/shop) | 4,470 | 3,701 | 150G/M ¥14/M ¥78/6M ¥42/Q ¥144/Y | - | 2026-04-05 | 2026-04 | Relay |
-| [FlyingBird](https://flyingbird.cc/user/shop) | 10,300 | 6,813 | 100G/M ¥15/M ¥76.5/6M ¥40.5/Q ¥144/Y | - | 2026-04-05 | 2026-04 | Relay |
+| [YkkCloud](https://panel.ykkk.best/#/shop) | 4,470 | 3,701 | 150G/M ¥14.00/M ¥42.00/3M ¥78.00/6M ¥144.00/Y | - | 2026-04-06 | 2026-04 | Relay |
+| [FlyingBird](https://flyingbird.cc/user/shop) | 10,300 | 6,813 | 100G/M ¥15/M ¥40.5/3M ¥76.5/6M ¥144/Y | - | 2026-04-06 | 2026-04 | Relay |
 | [CNIX](https://ssr.wtf/user/product) | 1,240 | 381 | 205G/M ¥25/M 2500G/Y ¥240/Y | - | - | 2022-02 | Relay |
 | [69云](https://69yun69.com/user/shop) | 12,800 | 12,717 | 100G/M ¥11.7/M ¥140/Y | 500G/¥180 | - | 2024-01 | Relay |
 | [肯の机](https://kendeji.io/#/dashboard) | 979 | - | 100G/M ¥30/M ¥360/Y | - | - | 2026-01 | Direct |
 | [CreamData](https://creamdata.net/User/MemberService) | 5,550 | 3,496 | 200G/M ¥29/M ¥298/Y | - | - | 2022-02 | Relay |
-| [魅影极速](https://maying.co/user/shop) | 15,600 | - | 500G/M ¥600/Y <br> 400G/M ¥180/Q <br> 900G/M ¥800/Y <br> 800G/M ¥480/6M | - | 2026-04-06 | 2026-04 | - |
+| [魅影极速](https://maying.co/user/shop) | 15,600 | - | 500G/M ¥600/Y <br> 400G/M ¥180/3M <br> 900G/M ¥800/Y <br> 800G/M ¥480/6M | - | 2026-04-06 | 2026-04 | - |
 | [山海](https://shanhai.me/#/shop) | 11,400 | 4,146 | 128G/M ¥15/M ¥150/Y | 128G/¥20 | 2026-04-06 | 2026-04 | Relay |
 | [神龙机场](https://shenlong.wiki/#/stage/buysubs) | 556 | 1,950 | 100G/M ¥10/M ¥100/Y | 256G/¥45 | - | 2023-11 | Relay |
 | [EdNovas云](https://ednovas.org/#/stage/buysubs) | 6,160 | 8,158 | 25G/M ¥5/M ¥55/Y <br> 200G/Y ¥90/Y <br> 50G/M ¥108/Y <br> 200G/Y ¥150/Y <br> 500G/Y ¥219/Y <br> 500G/Y ¥420/Y | - | 2026-04-06 | 2026-04 | Relay |
