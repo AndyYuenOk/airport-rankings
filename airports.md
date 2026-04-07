@@ -16,7 +16,7 @@
 | [YToo](https://y-too.net/cart.php) | 12,629 | - | 15G/M ¥98/Y <br> 200G/M ¥36/M ¥372/Y | - | 2026-04-05 | 2026-04 | - |
 | [MESL](https://panel.meslcloud.com/#/shop) | - | - | 50G/M ¥155/Y | - | 2026-04-08 | 2026-04 | - |
 | [iKuuu](https://ikuuu.org/user/shop) | - | - | 300G/M ¥12/M ¥108/Y | - | - | 2022-03 | Relay |
-| [一分机场](https://一分机场.com/#/plan) | 29,700 | 25,697 | 100G/M ¥2/M ¥11.99/6M ¥23.88/Y | 100G/¥11.88 | 2026-04-05 | 2026-04 | Direct |
+| [一分机场](https://一分机场.com/#/plan) | 29,700 | 25,697 | 100G/M ¥2/M ¥23.88/Y | 100G/¥11.88 | 2026-04-05 | 2026-04 | Direct |
 | [YkkCloud](https://panel.ykkk.best/#/shop) | 4,490 | 3,695 | 150G/M ¥14/M ¥144/Y | - | 2026-04-06 | 2026-04 | Relay |
 | [FlyingBird](https://flyingbird.cc/user/shop) | 10,800 | 6,797 | 100G/M ¥15/M ¥144/Y | - | 2026-04-06 | 2026-04 | Relay |
 | [CNIX](https://ssr.wtf/user/product) | 1,310 | 404 | 205G/M ¥25/M 2500G/Y ¥240/Y | - | - | 2022-02 | Relay |
@@ -26,19 +26,19 @@
 | [魅影极速](https://maying.co/user/shop) | 15,500 | - | 500G/M ¥600/Y | - | 2026-04-08 | 2026-04 | - |
 | [山海](https://shanhai.me/#/shop) | 11,300 | 4,208 | 128G/M ¥15/M ¥150/Y | 128G/¥20 | 2026-04-06 | 2026-04 | Relay |
 | [神龙机场](https://shenlong.wiki/#/stage/buysubs) | 560 | 1,965 | 100G/M ¥10/M ¥100/Y | 256G/¥45 | - | 2023-11 | Relay |
-| [EdNovas云](https://ednovas.org/#/stage/buysubs) | 6,170 | 7,964 | 25G/Y ¥55/Y <br> 50G/Y ¥108/Y | - | 2026-04-08 | 2026-04 | Relay |
+| [EdNovas云](https://ednovas.org/#/stage/buysubs) | 6,170 | 7,964 | 25G/M ¥55/Y <br> 50G/M ¥108/Y | - | 2026-04-08 | 2026-04 | Relay |
 | [青云梯](https://qingyunti.cc/shop) | 270 | 3,340 | 60G/M ¥96/Y | - | 2026-04-08 | 2022-03 | Relay |
 | [FastLink](https://fastlink.ws/user/shop) | 4,320 | - | 50G/M ¥90/Y | - | 2026-04-08 | 2022-02 | Relay |
 | [CloudFisher](https://cloudfisher.net/web/#/plan) | 12,600 | 9,568 | 148G/M ¥60/Y | 300G/¥40 | 2026-04-08 | 2026-04 | Relay |
 | [M78星云](https://m78star.cloud/#/shop) | 2,323 | - | 80G/M ¥7.8/M ¥88/Y | 300G/¥99 | - | 2023-10 | Relay |
 | [农夫山泉](https://qqq.nfsq.us/#/plan) | - | - | 200G/M ¥8/M ¥80/Y | 200G/¥15.00 | 2026-04-06 | 2026-04 | Relay |
 | [次元雲](https://ciyy.cc/#/shop) | 1,161 | - | 128G/M ¥10/M 158G/M ¥108/Y | 520G/¥90 | - | 2022-03 | Relay |
-| [夜煞云](https://www.night-furyx.com/index.php#/plan) | 8,380 | 6,026 | 50G/Y ¥58/Y <br> 138G/M ¥10/M | 400G/¥106 | 2026-04-06 | 2026-04 | Relay |
+| [夜煞云](https://www.night-furyx.com/index.php#/plan) | 8,380 | 6,026 | 50G/M ¥58/Y <br> 138G/M ¥10/M ¥110/Y | 400G/¥106 | 2026-04-08 | 2026-04 | Relay |
 | [自由猫](https://freecat.cloud/console/plan) | 5,130 | 4,270 | 30G/M ¥6/M ¥72/Y | 500G/¥50 | 2026-04-08 | 2026-04 | Relay |
 | [ofoNET](https://ofotw.org/#/plan) | 1,450 | 1,538 | 200G/M ¥9.90/M ¥99.99/Y | 384G/¥55.88 | 2026-04-07 | 2026-04 | Relay |
-| [蜂窝云](https://fwcloud.me/user/shop) | 1,190 | 4,253 | 230G/Y ¥210/Y | - | 2026-04-07 | 2026-04 | Relay |
+| [蜂窝云](https://fwcloud.me/user/shop) | 1,190 | 4,253 | 200G/M ¥20/M 230G/M ¥210/Y | - | 2026-04-08 | 2026-04 | Relay |
 | [壹速云](https://www.onesy1.cc/user/shop) | 1,300 | 3,015 | 2000G/Y ¥88/Y | 1000G/¥188 | 2026-04-07 | 2026-04 | Relay |
-| [猫熊网络加速器](https://mxwljsq.com/user/shop) | 16,700 | 785 | 600G/Y ¥120/Y | - | 2026-04-07 | 2026-04 | - |
+| [猫熊网络加速器](https://mxwljsq.com/user/shop) | 16,700 | 785 | 50G/M ¥11/M 600G/Y ¥120/Y | - | 2026-04-08 | 2026-04 | - |
 | [魔戒](https://mojie.app/shop) | 56,200 | 91,243 | - | 130G/¥14.9 | 2026-04-08 | 2026-04 | - |
 | [咸鱼加速器](https://nexuscloud.ch/cart.php) | 934 | - | 100G/M ¥20/M ¥198/Y | - | 2026-04-07 | 2026-04 | - |
 | [泡芙云](https://paofu.cloud/user/shop) | 4,870 | 11,802 | 50G/M ¥12/M ¥130/Y | - | 2026-04-07 | 2026-04 | - |
