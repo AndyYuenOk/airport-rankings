@@ -29,7 +29,7 @@
 | [EdNovas云](https://ednovas.org/#/stage/buysubs) | 6,170 | 7,964 | 25G/M ¥55/Y <br> 50G/M ¥108/Y | - | 2026-04-08 | 2026-04 | Relay |
 | [青云梯](https://qingyunti.cc/shop) | 270 | 3,340 | 60G/M ¥96/Y | - | 2026-04-08 | 2022-03 | Relay |
 | [FastLink](https://fastlink.ws/user/shop) | 4,320 | - | 50G/M ¥90/Y | - | 2026-04-08 | 2022-02 | Relay |
-| [CloudFisher](https://cloudfisher.net/web/#/plan) | 12,600 | 9,568 | 148G/M ¥60/Y | 300G/¥40 | 2026-04-08 | 2026-04 | Relay |
+| [CloudFisher](https://cloudfisher.net/web/#/plan) | 12,600 | 9,568 | 148G/M ¥60/Y | 300G/¥40 <br> 1000G/¥80 | 2026-04-08 | 2026-04 | Relay |
 | [M78星云](https://m78star.cloud/#/shop) | 2,323 | - | 80G/M ¥7.8/M ¥88/Y | 300G/¥99 | - | 2023-10 | Relay |
 | [农夫山泉](https://qqq.nfsq.us/#/plan) | - | - | 200G/M ¥8/M ¥80/Y | 200G/¥15.00 | 2026-04-06 | 2026-04 | Relay |
 | [次元雲](https://ciyy.cc/#/shop) | 1,161 | - | 128G/M ¥10/M 158G/M ¥108/Y | 520G/¥90 | - | 2022-03 | Relay |
@@ -47,3 +47,11 @@
 | [白月光](https://bygcloud.com/store) | 17,100 | - | 100G/M ¥66/3M ¥264/Y | - | 2026-04-06 | 2026-04 | - |
 | [V2Tun](https://cp.v2-tun.net/cart.php) | 3,277 | - | 100G/M ¥42/3M ¥138/Y | - | 2026-04-06 | 2026-04 | - |
 | [海豚湾](https://hitun.io/user/shop) | 12,000 | - | 3000G/Y ¥350/Y | - | 2026-04-08 | 2026-04 | - |
+| [SSRDOG](https://dog.ssrdog.com/#/account/store) | - | - | 150/M ¥67/3M ¥240/14M | 500G/￥220 | 2026-04-09 | 2026-04 | - |
+| [XFLTD](https://my.xfltd.org/#/shop) | - | - | 17G/M ¥3/M ¥12/Y <br> 1024G/2Y ¥77/2Y | 120G/￥10 | 2026-04-09 | 2026-04 | - |
+| [SkyLinX](https://portal.skylinx.org/#/plan) | - | - | 50G/M ¥8/M ¥96/Y | 200G/￥40 | 2026-04-09 | 2026-04 | - |
+| [ANYLAND](https://anyland.club/#/plan) | - | - | 130G/M ¥178/Y | 200G/￥128 | 2026-04-09 | 2026-04 | - |
+| [奈云](https://www.v2ny.com/#/stage/buysubs) | - | - | 168G/M ¥128/Y | 280G/￥118 | 2026-04-09 | 2026-04 | - |
+| [泡泡Dog](https://www.paopao.dog/#/plan) | - | - | 888G/Y ¥116/Y | - | 2026-04-09 | 2026-04 | - |
+| [CyberGuard](https://www.cyberguard.best/#/shop) | - | - | 100G/M ¥160/Y | 200G/¥79 | 2026-04-09 | 2026-04 | - |
+| [BigME](https://user.bigme.pro/user#/plan) | - | - | 45G/M ¥6/M ¥62/Y | 400G/¥60 | 2026-04-09 | 2026-04 | - |
